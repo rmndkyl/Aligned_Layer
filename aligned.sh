@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Starting the AlignedLayer public proof task setup..."
 
