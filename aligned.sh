@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Updating and upgrading the system..."
 sudo apt update -y
 sudo apt upgrade -y
