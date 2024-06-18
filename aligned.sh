@@ -1,4 +1,3 @@
-
 echo "Starting the AlignedLayer public proof task setup..."
 
 echo "Updating and upgrading the system..."
